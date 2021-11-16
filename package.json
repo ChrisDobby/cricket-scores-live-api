@@ -36,7 +36,7 @@
   "homepage": "https://github.com/ChrisDobby/cricket-scores-live-api#readme",
   "dependencies": {
     "aws-apigatewaymanagementapi": "^0.1.0",
-    "aws-sdk": "^2.459.0",
+    "aws-sdk": "^2.814.0",
     "bad-words": "^3.0.0",
     "body-parser": "^1.18.3",
     "dotenv": "^6.1.0",
